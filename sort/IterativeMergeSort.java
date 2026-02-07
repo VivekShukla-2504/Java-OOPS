@@ -61,7 +61,7 @@ class IterativeMergeSort {
     // Driver method
     public static void main(String[] args) {
 
-        int[] arr = {15, 5, 24, 8, 1, 3, 16, 10};
+        int[] arr = {15, 5, 24, 8, 1, 3, 16, 10,20};
         int n = arr.length;
 
         iterativeMergeSort(arr, n);
