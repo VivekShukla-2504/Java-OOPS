@@ -1,5 +1,5 @@
 package oops;
-/* 
+/* Abstraction example
     interface Payment {
     void pay(); // abstract method
 }
