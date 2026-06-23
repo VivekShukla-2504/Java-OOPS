@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MergeList",
+            "request": "launch",
+            "mainClass": "Leetcode_Bruteforce.MergeList",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "MiddleofLL",
+            "request": "launch",
+            "mainClass": "Leetcode_Bruteforce.MiddleofLL",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "InsertatGiven",
+            "request": "launch",
+            "mainClass": "InsertatGiven",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "InsertatKth",
+            "request": "launch",
+            "mainClass": "InsertatKth",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Insertinhead",
+            "request": "launch",
+            "mainClass": "Insertinhead",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "DeleteGiven",
+            "request": "launch",
+            "mainClass": "DeleteGiven",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "DeleteKth",
+            "request": "launch",
+            "mainClass": "DeleteKth",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Delete",
+            "request": "launch",
+            "mainClass": "Delete",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "ConvertArrayinLL",
+            "request": "launch",
+            "mainClass": "ConvertArrayinLL",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Delete1",
+            "request": "launch",
+            "mainClass": "Delete1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "DoublyLinkedList",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Alpha",
+            "request": "launch",
+            "mainClass": "String.Alpha",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "oops.reverse",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Rhombus",
+            "request": "launch",
+            "mainClass": "oops.Rhombus",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "right",
+            "request": "launch",
+            "mainClass": "oops.right",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Star",
+            "request": "launch",
+            "mainClass": "oops.Star",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "pyramid",
+            "request": "launch",
+            "mainClass": "oops.pyramid",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "plus",
+            "request": "launch",
+            "mainClass": "oops.plus",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "oops.prime",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "oops.Abstraction",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
